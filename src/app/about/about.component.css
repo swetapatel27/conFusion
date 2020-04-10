@@ -1,0 +1,25 @@
+.fimg{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+}
+.left-side{
+    float: left;
+    width: 5%;
+    padding: 10px;
+    padding-top: 10px;
+}
+.right-side{
+    float: right;
+    width: 90%;
+    padding: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.leaders{
+    margin: 10px;
+    width: 100%;
+    height: 100px;
+}
